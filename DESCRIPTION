@@ -1,5 +1,5 @@
 Package: regexcite
-Title: Split Strings into Character Vectors
+Title: Split Strings with Helper Functions
 Version: 0.0.0.9000
 Authors@R: 
     person("Justin", "Mai", , "jmai25@calpoly.edu", role = c("aut", "cre"))
