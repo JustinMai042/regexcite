@@ -1,5 +1,5 @@
 Package: regexcite
-Title: What the Package Does (One Line, Title Case)
+Title: Split Strings into Character Vectors
 Version: 0.0.0.9000
 Authors@R: 
     person("Justin", "Mai", , "jmai25@calpoly.edu", role = c("aut", "cre"))
